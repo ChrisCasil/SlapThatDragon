@@ -1,0 +1,1 @@
+﻿package {	import flash.utils.Timer;	public class Rock extends Projectile	{		public function Rock(gameTimer:Timer,hand:Hand,dragon:Dragon,posX:int,posY:int,theAngle:Number,theSpeed:Number)		{			super(gameTimer,hand,dragon,posX,posY,theAngle,theSpeed);			damage = 8;		}	}}

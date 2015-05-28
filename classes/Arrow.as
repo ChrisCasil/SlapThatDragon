@@ -1,0 +1,1 @@
+﻿package {	import flash.utils.Timer;	public class Arrow extends Projectile	{		public function Arrow(gameTimer:Timer,hand:Hand,dragon:Dragon,posX:int,posY:int,theAngle:Number,theSpeed:Number)		{			super(gameTimer,hand,dragon,posX,posY,theAngle,theSpeed);			damage = 7;		}	}}

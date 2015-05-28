@@ -1,0 +1,38 @@
+List of thinks to work on in order to finalize this project and make it ready for Android Users!
+
+Number 1 issue: Removing the hand.
+
+We need to remove the hand graphics since people will be using their fingers instead to play this game. 
+What this will mean:
+   Slapping action must be addressed (swiping accross dragon's head).
+   Pushing buttons on gamescreen to select skills needs to happen.
+   Gold should just travel into the gold brick instead of the hand, since we won't have it.
+   
+   Unit changes:
+      The enemies can't target the hand any more so the Father and Charmer both need to be reworked. 
+      Perhaps the Father should now just run away from skills instead of the hand, and he could raise the dead (remember that?).
+         -Well the father acts as a speed boost, he can have other auras too, like raising dead or maybe even buffing enemy hp to make him a big threat.
+         -Or another idea is that when he dies, he reincarnates to a big minion that is hard to kill. He is useless in father state though, he just trys to dodge attacks.
+      Charmers could repel fireballs, so they're a little more different than the armors, and they could just target the dragon with their attacks.
+         -We can make charmers be support casters that can buff an enemies attacks, like archers range/attack speed. Applying shields to other minions etc.
+         
+         We should add different modes like how games have survival, campaign, or challenge, etc.
+            I think we have survival mode down, maybe make it have some difficulty levels.
+            Challenge can be crazy stuff where you unlock the next challenge after you complete the previous.
+               -for example
+                  Only fathers and charmer (with the changes I made above) fathers reincarnating and charmers buffing their devil spawn would be crazy.
+                  Maybe a challenge to reach a certain gold count without buying upgrades at 200% speed
+                  Or maybe 300% fireballs only with increased mana regen, but to the point you still have to plan shots wisely to not deplete mp
+   ... Anything else?
+
+Other Changes:
+
+   Maybe one idea is getting rid of upgrading the skill and health recharge rates, and just make them naturally increase. Probably makes for a better, more reliable experience for the user.
+      -we can make it stage based like in some games where you complete a stage, then buy upgrades, but it'll be pretty generic.
+   The Psych Scream is pretty useless, maybe this can be an ultimate sound bomb that clears the screan of enemies, but has a set recharge time instead of using skill.
+
+   More Skills? Or maybe we should save that for another version of this game after we make lots of money with this one. :)
+
+
+Add more stuff here if you want to suggests ideas, or just talk about things that you think we should do.
+   

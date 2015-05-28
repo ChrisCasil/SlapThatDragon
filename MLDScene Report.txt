@@ -1,0 +1,467 @@
+﻿MLDScene.swf Movie Report
+--------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+       669    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5.5 - build 325</xmp:CreatorTool> <xmp:CreateDate>2011-10-06T00:17:59-07:00</xmp:CreateDate> <xmp:MetadataDate>2013-04-28T03:51:20-07:00</xmp:MetadataDate> <xmp:ModifyDate>2013-04-28T03:51:20-07:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:391708E40C2068118A6D821F0DF366D3</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:391708E40C2068118A6D821F0DF366D3</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:01801174072068118C14CF709222378B</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:F77F1174072068118A6D821F0DF366D3</stRef:instanceID> <stRef:documentID>xmp.did:F77F1174072068118083FB838A9874FF</stRef:documentID> <stRef:originalDocumentID>xmp.did:01801174072068118C14CF709222378B</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1        1402409        1402409    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                593519
+
+Symbol                             Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------------    -----------    ----------    ------------------
+StillDragon                              15186             0                     0
+Assets (various, unimplemented)              0             0                     0
+Border                                      81             0                     0
+backButton                                 537           116                     0
+healthButton                              3383             0                     0
+infoButton                                 706           152                     0
+LeftArrow                                  106             0                     0
+menuButton                                 415           116                     0
+quitButton                                   0             0                     0
+regenButton                               3314             0                     0
+RightArrow                                 178             0                     0
+shopButton                                   0             0                     0
+skillButton                              16784             0                     0
+skillRegenButton                         16704             0                     0
+startButton                                767           156                     0
+tutorialButton                             660           136                     0
+Dragon                                  132745             0                     0
+PauseScreen                                 23           417                     0
+quitButton                                   0             0                     0
+shopButton                                   0             0                     0
+Archer                                    7025             0                     0
+Armor                                    10987             0                     0
+Arrow                                        0             0                     0
+BigFireball                               8645             0                     0
+Bird                                      1406             0                     0
+Bomb                                     15620             0                     0
+Catapult                                  1519             0                     0
+Charmer                                  24089             0                     0
+Electroball                               5569             0                     0
+Farmer                                   16912             0                     0
+Fireball                                  5530             0                     0
+FireBreath                                2785             0                     0
+Harmer                                    3780             0                     0
+Pitchfork                                 1065             0                     0
+Priest                                    4668             0                     0
+Rock                                      5726             0                     0
+GoldCoin                                   146             0                     0
+Hand                                      3059             0                     0
+ArcherMovingDummy                        14603             0                     0
+ArmorMovingDummy                         22873             0                     0
+CatapultDummy                             1691             0                     0
+CharmerMoving dummy                      12561             0                     0
+FarmerMovingDummy                        17529             0                     0
+HarmerMovingDummy                         6158             0                     0
+PriestMovingDummy                         4925             0                     0
+Background                               38591             0                     0
+BackgroundAndIcons                           0             0                     0
+Border                                      81             0                     0
+DragonFull                                   0             0                     0
+Food                                      3124             0                     0
+GameOverText                                 0            96                     0
+GoldBar                                   4378             0                     0
+heart                                     1609             0                     0
+GameOverScreen                           15231           535                     0
+GameScreen                                   0            89                     0
+LockedSkill                               1949             0                     0
+FireballSkill                             2397             0                     0
+GameScreen copy                              0             0                     0
+InfoScreen                                   0          1116                     0
+MenuScreen                                   0             0                     0
+PauseScreen                                 23           417                     0
+DragonRoarButton                         18191             0                     0
+DragonBreathButton                       14128             0                     0
+BigFireballButton                        16512             0                     0
+FireballPurchased                         2435             0                     0
+TransitionScreen                            21             0                     0
+Dragon dummy                             20578             0                     0
+TutorialScreen                           36201          1512                     0
+Hand dummy                                1804             0                     0
+Farmer dummy                              2565             0                     0
+GoldCoin dummy                             128             0                     0
+Bird copy                                 1404             0                     0
+BigFireball copy                          1181             0                     0
+NonPurchasedMark                            89             0                     0
+BigFireballPurchased                      4922             0                     0
+PurchasedMark                               82             0                     0
+BigFireballSkill                          4922             0                     0
+DragonBreathPurchased                     4078             0                     0
+DragonBreathSkill                         4078             0                     0
+DragonRoarPurchased                       5320             0                     0
+DragonRoarSkill                           5320             0                     0
+Armor dummy                                  0             0                     0
+Catapult dummy                               0             0                     0
+Charmer dummy                                0             0                     0
+Dragon dummy(2)                              0             0                     0
+Fireball dummy                               0             0                     0
+Harmer dummy                                 0             0                     0
+Pitchfork dummy                              0             0                     0
+OldTutorialScreen                            0             0                     0
+
+Font Name                 Bytes         Characters
+----------------------    ----------    ----------
+Apple-Chancery                  5547    StoryUse hmucnlad.TviwbfgpCH"GB1234D!()kI0,FWNE 
+AppleCasual                     3643     !"',-.12ABFHIOSTUYabcdefghijklmnoprstuvwxyz 
+MaturaMTScriptCapitals           990     .Yadeginorsu 
+Apple-Chancery                 32415     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĊċČčĎďĐđĒēĖėĘęĚěĞğĠġĢģĦħĪīĮįİıĲĳĶķĹĺĻļĽľĿŀŁłŃńŅņŇňŉŌōŐőŒœŔŕŖŗŘřŚśŞşŠšŢţŤťŪūŮůŰűŲųŸŹźŻżŽžƒǵȘșȚțˆˇ˘˙˚˛˜˝ΔΩμπ–—‘’‚“”„†‡•…‰‹›⁄⁴ⁿ₁₂₃₄₡₢₣₧₨€™Ω∂∏∑√∞∫≠≤≥﹠
+
+ActionScript Bytes    Location
+------------------    --------
+               136    Scene 1:Frame 1:flashx.textLayout.tlf_internal
+               650    Scene 1:Frame 1:Calculate
+               592    Scene 1:Frame 1:fl.text.RuntimeFontMapper
+              4746    Scene 1:Frame 1:fl.timeline.TimelineManager
+              1051    Scene 1:Frame 1:fl.timeline.timelineManager.InstanceInfo
+              4988    Scene 1:Frame 1:flashx.textLayout.formats.ITextLayoutFormat
+              1077    Scene 1:Frame 1:fl.text.TLFRuntimeTabManager
+               367    Scene 1:Frame 1:flashx.textLayout.edit.EditingMode
+               328    Scene 1:Frame 1:flashx.textLayout.formats.Direction
+               336    Scene 1:Frame 1:flashx.textLayout.formats.BackgroundColor
+              1064    Scene 1:Frame 1:flashx.textLayout.edit.SelectionFormat
+              2353    Scene 1:Frame 1:flashx.textLayout.elements.GlobalSettings
+              1945    Scene 1:Frame 1:flashx.textLayout.elements.IConfiguration
+              1982    Scene 1:Frame 1:flashx.textLayout.conversion.TextConverter
+               351    Scene 1:Frame 1:flashx.textLayout.formats.BlockProgression
+              1993    Scene 1:Frame 1:flashx.textLayout.edit.IInteractionEventHandler
+               610    Scene 1:Frame 1:flashx.textLayout.container.ISandboxSupport
+               373    Scene 1:Frame 1:flashx.textLayout.compose.ISWFContext
+              2103    Scene 1:Frame 1:flashx.textLayout.elements.BackgroundManager
+              3517    Scene 1:Frame 1:flashx.textLayout.factory.TextLineFactoryBase
+              3507    Scene 1:Frame 1:flashx.textLayout.compose.FlowComposerBase
+              2545    Scene 1:Frame 1:flashx.textLayout.compose.IFlowComposer
+               918    Scene 1:Frame 1:flashx.textLayout.conversion.ITextImporter
+               689    Scene 1:Frame 1:flashx.textLayout.conversion.FormatDescriptor
+               774    Scene 1:Frame 1:flashx.textLayout.conversion.ITextExporter
+               929    Scene 1:Frame 1:flashx.textLayout.factory.TruncationOptions
+              6163    Scene 1:Frame 1:flashx.textLayout.property.Property
+               649    Scene 1:Frame 1:flashx.textLayout.compose.FloatCompositionData
+              2576    Scene 1:Frame 1:flashx.textLayout.container.ColumnState
+              4870    Scene 1:Frame 1:flashx.textLayout.events.FlowElementMouseEventManager
+               924    Scene 1:Frame 1:flashx.undo.IUndoManager
+               721    Scene 1:Frame 1:flashx.textLayout.elements.IFormatResolver
+               474    Scene 1:Frame 1:flashx.textLayout.container.ScrollPolicy
+               933    Scene 1:Frame 1:flashx.textLayout.compose.TextLineRecycler
+               355    Scene 1:Frame 1:flashx.textLayout.compose.FlowDamageType
+               370    Scene 1:Frame 1:flashx.textLayout.formats.WhiteSpaceCollapse
+               394    Scene 1:Frame 1:flashx.textLayout.formats.VerticalAlign
+               472    Scene 1:Frame 1:flashx.textLayout.formats.TLFTypographicCase
+               364    Scene 1:Frame 1:flashx.textLayout.formats.ListStylePosition
+               366    Scene 1:Frame 1:flashx.textLayout.formats.JustificationRule
+               357    Scene 1:Frame 1:flashx.textLayout.formats.BaselineShift
+               379    Scene 1:Frame 1:flashx.textLayout.formats.BaselineOffset
+               440    Scene 1:Frame 1:flashx.textLayout.formats.Category
+               593    Scene 1:Frame 1:flashx.textLayout.formats.LeadingModel
+               349    Scene 1:Frame 1:flashx.textLayout.formats.TextJustify
+               363    Scene 1:Frame 1:flashx.textLayout.formats.FormatValue
+               353    Scene 1:Frame 1:flashx.textLayout.formats.TextDecoration
+              1264    Scene 1:Frame 1:flashx.textLayout.formats.ListStyleType
+               335    Scene 1:Frame 1:flashx.textLayout.formats.LineBreak
+               426    Scene 1:Frame 1:flashx.textLayout.formats.ClearFloats
+               424    Scene 1:Frame 1:flashx.textLayout.formats.TextAlign
+               557    Scene 1:Frame 1:flashx.textLayout.events.ModelChange
+               363    Scene 1:Frame 1:flashx.textLayout.elements.OverflowPolicy
+               382    Scene 1:Frame 1:flashx.textLayout.formats.Float
+               703    Scene 1:Frame 1:flashx.textLayout.utils.Twips
+               376    Scene 1:Frame 1:flashx.textLayout.events.ScrollEventDirection
+               772    Scene 1:Frame 1:flashx.textLayout.utils.CharacterUtil
+              2102    Scene 1:Frame 1:flashx.textLayout.utils.LocaleUtil
+               547    Scene 1:Frame 1:flashx.textLayout.formats.IMEStatus
+               481    Scene 1:Frame 1:flashx.textLayout.elements.InlineGraphicElementStatus
+               410    Scene 1:Frame 1:flashx.textLayout.elements.LinkState
+               840    Scene 1:Frame 1:flashx.textLayout.compose.IVerticalJustificationLine
+               562    Scene 1:Frame 1:flashx.textLayout.formats.ITabStopFormat
+               967    Scene 1:Frame 1:flashx.textLayout.conversion.ConverterBase
+               529    Scene 1:Frame 1:flashx.textLayout.conversion.IFormatImporter
+               734    Scene 1:Frame 1:flashx.textLayout.property.PropertyHandler
+              1476    Scene 1:Frame 1:flashx.textLayout.utils.HitTestArea
+               318    Scene 1:Frame 1:flashx.undo.IOperation
+              1258    Scene 1:Frame 1:flashx.textLayout.elements.TextRange
+              3546    Scene 1:Frame 1:flashx.textLayout.compose.Parcel
+              4421    Scene 1:Frame 1:flashx.textLayout.compose.ParcelList
+               372    Scene 1:Frame 1:flashx.textLayout.compose.Slug
+               701    Scene 1:Frame 1:flashx.textLayout.conversion.FlowElementInfo
+               905    Scene 1:Frame 1:flashx.textLayout.conversion.ImportExportConfiguration
+              2682    Scene 1:Frame 1:flashx.textLayout.edit.ElementRange
+               412    Scene 1:Frame 1:flashx.textLayout.edit.Mark
+              1389    Scene 1:Frame 1:flashx.textLayout.edit.TextScrap
+              1074    Scene 1:Frame 1:flashx.textLayout.utils.GeometryUtil
+              4127    Scene 1:Frame 1:flashx.textLayout.compose.VerticalJustifier
+               405    Scene 1:Frame 1:flashx.textLayout.compose.TextFlowLineLocation
+               367    Scene 1:Frame 1:flashx.textLayout.conversion.ConversionType
+               707    Scene 1:Frame 1:flashx.textLayout.TextLayoutVersion
+               319    Scene 1:Frame 1:flashx.textLayout.formats.Suffix
+               401    Scene 1:Frame 1:flashx.textLayout.edit.SelectionFormatState
+              3065    Scene 1:Frame 1:flashx.textLayout.edit.TextClipboard
+              8481    Scene 1:Frame 1:flashx.textLayout.utils.NavigationUtil
+               994    Scene 1:Frame 1:flash.text.ime.IIMEClient
+               430    Scene 1:Frame 1:flash.text.ime.CompositionAttributeRange
+               352    Scene 1:Frame 1:flashx.textLayout.edit.IMemento
+               672    Scene 1:Frame 1:flashx.textLayout.edit.ElementMark
+              5168    Scene 1:Frame 1:flashx.textLayout.edit.ParaEdit
+              6768    Scene 1:Frame 1:flashx.textLayout.edit.TextFlowEdit
+               170    Scene 1:Frame 1:MLDScene_fla.Font_14
+               295    Scene 1:Frame 1:NavigationEvent
+               208    Scene 1:Frame 1:AvatarEvent
+               397    Scene 1:Frame 1:CreateEvent
+              1008    Scene 1:Frame 1:flashx.textLayout.events.CompositionCompleteEvent
+               462    Scene 1:Frame 1:flashx.textLayout.events.TextLayoutEvent
+               823    Scene 1:Frame 1:flashx.textLayout.events.UpdateCompleteEvent
+               933    Scene 1:Frame 1:flashx.textLayout.events.StatusChangeEvent
+               963    Scene 1:Frame 1:flashx.textLayout.events.FlowElementMouseEvent
+               642    Scene 1:Frame 1:flashx.textLayout.events.SelectionEvent
+               729    Scene 1:Frame 1:flashx.textLayout.events.DamageEvent
+              1006    Scene 1:Frame 1:flashx.textLayout.events.FlowOperationEvent
+              2221    Scene 1:Frame 1:flashx.textLayout.accessibility.TextAccImpl
+              4409    Scene 1:Frame 1:fl.text.TCMRuntimeManager
+             19202    Scene 1:Frame 1:flashx.textLayout.formats.TextLayoutFormat
+             20147    Scene 1:Frame 1:flashx.textLayout.elements.FlowElement
+               727    Scene 1:Frame 1:flashx.textLayout.formats.IListMarkerFormat
+              4841    Scene 1:Frame 1:flashx.textLayout.elements.Configuration
+              2513    Scene 1:Frame 1:flashx.textLayout.edit.ISelectionManager
+             20412    Scene 1:Frame 1:flashx.textLayout.compose.BaseCompose
+              2604    Scene 1:Frame 1:flashx.textLayout.factory.TextFlowTextLineFactory
+              4241    Scene 1:Frame 1:flashx.textLayout.factory.StringTextLineFactory
+              5805    Scene 1:Frame 1:flashx.textLayout.compose.StandardFlowComposer
+               499    Scene 1:Frame 1:flashx.textLayout.conversion.ITextLayoutImporter
+               767    Scene 1:Frame 1:flashx.textLayout.conversion.IHTMLImporter
+               650    Scene 1:Frame 1:flashx.textLayout.conversion.IPlainTextExporter
+              1941    Scene 1:Frame 1:flashx.textLayout.property.ArrayProperty
+              1379    Scene 1:Frame 1:flashx.undo.UndoManager
+              2397    Scene 1:Frame 1:flashx.textLayout.formats.TabStopFormat
+              5741    Scene 1:Frame 1:flashx.textLayout.conversion.TextFieldHtmlExporter
+              1070    Scene 1:Frame 1:flashx.textLayout.conversion.PlainTextImporter
+              6378    Scene 1:Frame 1:flashx.textLayout.conversion.BaseTextLayoutImporter
+              3925    Scene 1:Frame 1:flashx.textLayout.conversion.BaseTextLayoutExporter
+               775    Scene 1:Frame 1:flashx.textLayout.conversion.TLFormatImporter
+               657    Scene 1:Frame 1:flashx.textLayout.conversion.CustomFormatImporter
+               649    Scene 1:Frame 1:flashx.textLayout.conversion.SingletonAttributeImporter
+               594    Scene 1:Frame 1:flashx.textLayout.property.EnumPropertyHandler
+              1019    Scene 1:Frame 1:flashx.textLayout.property.NumberPropertyHandler
+               650    Scene 1:Frame 1:flashx.textLayout.property.FormatPropertyHandler
+               468    Scene 1:Frame 1:flashx.textLayout.property.BooleanPropertyHandler
+               870    Scene 1:Frame 1:flashx.textLayout.property.UintPropertyHandler
+               443    Scene 1:Frame 1:flashx.textLayout.property.StringPropertyHandler
+               912    Scene 1:Frame 1:flashx.textLayout.property.IntPropertyHandler
+               928    Scene 1:Frame 1:flashx.textLayout.property.PercentPropertyHandler
+               519    Scene 1:Frame 1:flashx.textLayout.property.UndefinedPropertyHandler
+              1440    Scene 1:Frame 1:flashx.textLayout.property.SpacingLimitPropertyHandler
+              1024    Scene 1:Frame 1:flashx.textLayout.property.CounterPropHandler
+              2251    Scene 1:Frame 1:flashx.textLayout.property.CounterContentHandler
+              1316    Scene 1:Frame 1:flashx.textLayout.operations.FlowOperation
+               925    Scene 1:Frame 1:flashx.textLayout.edit.SelectionState
+              4122    Scene 1:Frame 1:flashx.textLayout.edit.IMEClient
+               725    Scene 1:Frame 1:flashx.textLayout.edit.MementoList
+              7007    Scene 1:Frame 1:flashx.textLayout.edit.ModelEdit
+               893    Scene 1:Frame 1:flashx.textLayout.events.FlowElementEventDispatcher
+             42446    Scene 1:Frame 1:flashx.textLayout.container.ContainerController
+               492    Scene 1:Frame 1:flashx.textLayout.events.ScrollEvent
+               896    Scene 1:Frame 1:flashx.textLayout.elements.FlowValueHolder
+              1403    Scene 1:Frame 1:flashx.textLayout.edit.PointFormat
+              8642    Scene 1:Frame 1:flashx.textLayout.elements.FlowLeafElement
+              7040    Scene 1:Frame 1:flashx.textLayout.elements.FlowGroupElement
+              3491    Scene 1:Frame 1:flashx.textLayout.formats.ListMarkerFormat
+             14657    Scene 1:Frame 1:flashx.textLayout.edit.SelectionManager
+              3623    Scene 1:Frame 1:flashx.textLayout.edit.IEditManager
+              4652    Scene 1:Frame 1:flashx.textLayout.compose.SimpleCompose
+              4307    Scene 1:Frame 1:flashx.textLayout.compose.ComposeState
+             21675    Scene 1:Frame 1:flashx.textLayout.compose.TextFlowLine
+              1250    Scene 1:Frame 1:flashx.textLayout.factory.FactoryDisplayComposer
+              1260    Scene 1:Frame 1:flashx.textLayout.conversion.PlainTextExporter
+              1841    Scene 1:Frame 1:flashx.textLayout.property.TabStopsProperty
+              5547    Scene 1:Frame 1:flashx.textLayout.conversion.TextLayoutImporter
+              2531    Scene 1:Frame 1:flashx.textLayout.conversion.TextLayoutExporter
+             12671    Scene 1:Frame 1:flashx.textLayout.conversion.TextFieldHtmlImporter
+               483    Scene 1:Frame 1:flashx.textLayout.operations.UndoOperation
+              1576    Scene 1:Frame 1:flashx.textLayout.operations.CompositeOperation
+               489    Scene 1:Frame 1:flashx.textLayout.operations.RedoOperation
+               917    Scene 1:Frame 1:flashx.textLayout.operations.FlowTextOperation
+               164    Scene 1:Frame 1:Allegro
+               167    Scene 1:Frame 1:ArrowHit
+               174    Scene 1:Frame 1:CatapultLaunch
+               164    Scene 1:Frame 1:Chirp
+               164    Scene 1:Frame 1:Crush
+               170    Scene 1:Frame 1:DeathSound
+               171    Scene 1:Frame 1:DragonDeath
+               166    Scene 1:Frame 1:Eating1
+               166    Scene 1:Frame 1:Eating2
+               166    Scene 1:Frame 1:Eating3
+               171    Scene 1:Frame 1:Electricity
+               166    Scene 1:Frame 1:Explosion
+               166    Scene 1:Frame 1:FireMagic
+               168    Scene 1:Frame 1:Firestorm
+               174    Scene 1:Frame 1:MyLittleDragon
+               160    Scene 1:Frame 1:Oop
+               163    Scene 1:Frame 1:Ouch
+               168    Scene 1:Frame 1:PickedUp1
+               168    Scene 1:Frame 1:PickedUp2
+               168    Scene 1:Frame 1:PickedUp3
+               171    Scene 1:Frame 1:PsychScreem
+               168    Scene 1:Frame 1:RaiseDead
+               161    Scene 1:Frame 1:Rawr
+               165    Scene 1:Frame 1:Screem
+               165    Scene 1:Frame 1:Sizzle
+               164    Scene 1:Frame 1:Slap1
+               164    Scene 1:Frame 1:Slap2
+               164    Scene 1:Frame 1:Slap3
+               175    Scene 1:Frame 1:SmackThatDragon
+               163    Scene 1:Frame 1:Spit
+               167    Scene 1:Frame 1:Splatter
+               171    Scene 1:Frame 1:ThisIsTasty
+               165    Scene 1:Frame 1:Throw1
+               165    Scene 1:Frame 1:Throw2
+               166    Scene 1:Frame 1:Thrown1
+               166    Scene 1:Frame 1:Thrown2
+               166    Scene 1:Frame 1:Thrown3
+               166    Scene 1:Frame 1:Whistle
+               174    Scene 1:Frame 1:AllegroStrings
+               168    Scene 1:Frame 1:TheComing
+             10066    Scene 1:Frame 1:flashx.textLayout.elements.InlineGraphicElement
+              4449    Scene 1:Frame 1:flashx.textLayout.elements.SpanElement
+               457    Scene 1:Frame 1:flashx.textLayout.elements.ParagraphFormattedElement
+              3378    Scene 1:Frame 1:flashx.textLayout.elements.SubParagraphGroupElementBase
+             13091    Scene 1:Frame 1:flashx.textLayout.edit.EditManager
+             21548    Scene 1:Frame 1:flashx.textLayout.container.TextContainerManager
+              2042    Scene 1:Frame 1:flashx.textLayout.operations.InsertInlineGraphicOperation
+              1547    Scene 1:Frame 1:flashx.textLayout.operations.ApplyLinkOperation
+              1745    Scene 1:Frame 1:flashx.textLayout.operations.MoveChildrenOperation
+              1470    Scene 1:Frame 1:flashx.textLayout.operations.DeleteTextOperation
+              2257    Scene 1:Frame 1:flashx.textLayout.operations.CreateListOperation
+              2022    Scene 1:Frame 1:flashx.textLayout.operations.CreateDivOperation
+              1294    Scene 1:Frame 1:flashx.textLayout.operations.ApplyTCYOperation
+              1628    Scene 1:Frame 1:flashx.textLayout.operations.SplitElementOperation
+              2143    Scene 1:Frame 1:flashx.textLayout.operations.CreateSubParagraphGroupOperation
+              2790    Scene 1:Frame 1:flashx.textLayout.operations.InsertTextOperation
+               686    Scene 1:Frame 1:flashx.textLayout.operations.CopyOperation
+              1773    Scene 1:Frame 1:flashx.textLayout.operations.PasteOperation
+              1599    Scene 1:Frame 1:flashx.textLayout.operations.ModifyInlineGraphicOperation
+               788    Scene 1:Frame 1:flashx.textLayout.operations.CutOperation
+              2179    Scene 1:Frame 1:flashx.textLayout.operations.ApplyFormatOperation
+              2139    Scene 1:Frame 1:flashx.textLayout.operations.ClearFormatOperation
+              1907    Scene 1:Frame 1:flashx.textLayout.operations.FlowElementOperation
+               774    Scene 1:Frame 1:flashx.textLayout.elements.SpecialCharacterElement
+              7282    Scene 1:Frame 1:flashx.textLayout.elements.ParagraphElement
+               929    Scene 1:Frame 1:flashx.textLayout.elements.ContainerFormattedElement
+              1888    Scene 1:Frame 1:flashx.textLayout.elements.TCYElement
+              4333    Scene 1:Frame 1:flashx.textLayout.elements.LinkElement
+              1003    Scene 1:Frame 1:flashx.textLayout.elements.SubParagraphGroupElement
+              2116    Scene 1:Frame 1:fl.text.TLFTextContainerManager
+               672    Scene 1:Frame 1:flashx.textLayout.operations.SplitParagraphOperation
+               906    Scene 1:Frame 1:flashx.textLayout.operations.ApplyElementIDOperation
+               946    Scene 1:Frame 1:flashx.textLayout.operations.ApplyElementTypeNameOperation
+              1177    Scene 1:Frame 1:flashx.textLayout.operations.ClearFormatOnElementOperation
+              1008    Scene 1:Frame 1:flashx.textLayout.operations.ApplyFormatToElementOperation
+               207    Scene 1:Frame 1:BigFireballButton
+               208    Scene 1:Frame 1:DragonBreathButton
+               206    Scene 1:Frame 1:DragonRoarButton
+               199    Scene 1:Frame 1:LeftArrow
+               200    Scene 1:Frame 1:RightArrow
+               542    Scene 1:Frame 1:flashx.textLayout.elements.BreakElement
+               532    Scene 1:Frame 1:flashx.textLayout.elements.TabElement
+              7719    Scene 1:Frame 1:flashx.textLayout.elements.TextFlow
+              1547    Scene 1:Frame 1:flashx.textLayout.elements.ListItemElement
+              7283    Scene 1:Frame 1:flashx.textLayout.elements.ListElement
+               509    Scene 1:Frame 1:flashx.textLayout.elements.DivElement
+              3682    Scene 1:Frame 1:fl.text.TCMText
+               348    Scene 1:Frame 1:fl.text.DynamicSprite
+              1514    Scene 1:Frame 1:DocumentClass
+              1108    Scene 1:Frame 1:Dragon
+               384    Scene 1:Frame 1:FireBreath
+               539    Scene 1:Frame 1:Fireball
+               228    Scene 1:Frame 1:FireballPurchased
+               223    Scene 1:Frame 1:FireballSkill
+               918    Scene 1:Frame 1:GameOverScreen
+               773    Scene 1:Frame 1:Hand
+               371    Scene 1:Frame 1:InfoScreen
+              8336    Scene 1:Frame 1:MLDMain
+               505    Scene 1:Frame 1:MenuScreen
+               814    Scene 1:Frame 1:PauseScreen
+             13340    Scene 1:Frame 1:TutorialScreen
+              1462    Scene 1:Frame 1:Enemy
+               952    Scene 1:Frame 1:Projectile
+               229    Scene 1:Frame 1:TransitionScreen
+               234    Scene 1:Frame 1:DragonBreathPurchased
+               232    Scene 1:Frame 1:DragonRoarPurchased
+               233    Scene 1:Frame 1:BigFireballPurchased
+               694    Scene 1:Frame 1:GoldCoin
+               229    Scene 1:Frame 1:BigFireballSkill
+               543    Scene 1:Frame 1:BigFireball
+               228    Scene 1:Frame 1:DragonRoarSkill
+               230    Scene 1:Frame 1:DragonBreathSkill
+               587    Scene 1:Frame 1:Archer
+               523    Scene 1:Frame 1:Bird
+               597    Scene 1:Frame 1:Catapult
+               675    Scene 1:Frame 1:Farmer
+              1144    Scene 1:Frame 1:Priest
+               667    Scene 1:Frame 1:Armor
+               905    Scene 1:Frame 1:Charmer
+               672    Scene 1:Frame 1:Harmer
+               304    Scene 1:Frame 1:Arrow
+               364    Scene 1:Frame 1:Bomb
+               311    Scene 1:Frame 1:Pitchfork
+               303    Scene 1:Frame 1:Rock
+               702    Scene 1:Frame 1:Electroball
+
+Bitmap               Compressed    Original      Compression
+-----------------    ----------    ----------    -----------
+flash0.png                23796       2233792    JPEG Quality=80
+flash1.png                 2825        321120    JPEG Quality=80
+flash0.png copy 2          3970        343568    Lossless
+
+Event Sounds: 11KHz Mono 16 kbps MP3
+
+
+Sound name              Bytes         Format
+--------------------    ----------    ------
+TheComing.wav                22069    11KHz Mono 16 kbps MP3
+AllegroStrings.wav           23832    11KHz Mono 16 kbps MP3
+YourDragonIsDead.wav          2037    11KHz Mono 16 kbps MP3
+Whistle.wav                    488    11KHz Mono 16 kbps MP3
+Thrown3.wav                    862    11KHz Mono 16 kbps MP3
+Thrown2.wav                   2197    11KHz Mono 16 kbps MP3
+Thrown1.wav                   1503    11KHz Mono 16 kbps MP3
+Throw2.wav                     755    11KHz Mono 16 kbps MP3
+Throw1.wav                     488    11KHz Mono 16 kbps MP3
+ThisIsTasty.wav               2785    11KHz Mono 16 kbps MP3
+Splatter.wav                  1129    11KHz Mono 16 kbps MP3
+Spit.wav                       541    11KHz Mono 16 kbps MP3
+SmackThatDragon.wav           1877    11KHz Mono 16 kbps MP3
+Slap3.wav                      435    11KHz Mono 16 kbps MP3
+Slap2.wav                      435    11KHz Mono 16 kbps MP3
+Slap1.wav                      435    11KHz Mono 16 kbps MP3
+Sizzle.wav                     755    11KHz Mono 16 kbps MP3
+Screem.wav                    1289    11KHz Mono 16 kbps MP3
+Rawr.wav                      2411    11KHz Mono 16 kbps MP3
+RaiseDead.wav                 2197    11KHz Mono 16 kbps MP3
+PsychScreem.wav                648    11KHz Mono 16 kbps MP3
+PickedUp3.wav                  755    11KHz Mono 16 kbps MP3
+PickedUp2.wav                  808    11KHz Mono 16 kbps MP3
+PickedUp1.wav                 1022    11KHz Mono 16 kbps MP3
+Ouch.wav                       755    11KHz Mono 16 kbps MP3
+Oop.wav                       1503    11KHz Mono 16 kbps MP3
+MyLittleDragon.wav            1663    11KHz Mono 16 kbps MP3
+Firestorm.wav                 1717    11KHz Mono 16 kbps MP3
+FireMagic.wav                  808    11KHz Mono 16 kbps MP3
+Explosion.wav                 1129    11KHz Mono 16 kbps MP3
+Electricity.wav                808    11KHz Mono 16 kbps MP3
+Eating3.wav                   1610    11KHz Mono 16 kbps MP3
+Eating2.wav                   1556    11KHz Mono 16 kbps MP3
+Eating1.wav                   1556    11KHz Mono 16 kbps MP3
+DeathSound.wav                1076    11KHz Mono 16 kbps MP3
+Crush.wav                      755    11KHz Mono 16 kbps MP3
+Chirp.wav                      328    11KHz Mono 16 kbps MP3
+CatapultLaunch.wav            1289    11KHz Mono 16 kbps MP3
+ArrowHit.wav                   435    11KHz Mono 16 kbps MP3
+Allegro.wav                  24793    11KHz Mono 16 kbps MP3
+
+
+
+

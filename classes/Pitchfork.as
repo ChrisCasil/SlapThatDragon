@@ -1,0 +1,1 @@
+﻿package {	import flash.utils.Timer;	public class Pitchfork extends Projectile	{		public function Pitchfork(gameTimer:Timer,hand:Hand,dragon:Dragon,posX:int,posY:int,theAngle:Number,theSpeed:Number)		{			super(gameTimer,hand,dragon,posX,posY,theAngle,theSpeed);			damage = 10;		}	}}
